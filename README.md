@@ -30,7 +30,7 @@ src/
 ├── App.js
 ├── index.js
 ├── App.css
-│
+│──assets/Image- Screenshot
 ```
 
 ---
@@ -60,6 +60,15 @@ src/
 3. third install npm package and npm install bootstrap react-bootstrap if needs
 4. fourth run the application using npm run dev
 
+
+## download over git
+1. first create folder in visual studio
+2. second open terminal and select cmd then cd in respective folder
+3. third git clone "the respository link" and install npm package if needs
+4. fourth run the application using npm run dev 
+
+## screenshots
+I shared demo screenshots in src/assets
 
 ## 📖 Module Features
 
